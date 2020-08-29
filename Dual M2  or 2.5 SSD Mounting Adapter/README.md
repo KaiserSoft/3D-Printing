@@ -18,7 +18,7 @@ The following printer settings have been used on my Prusa MK3S
 PLA, 0.3mm layer, 15% infill, 3 solid top and bottom layers and 3 perimeters
     
     
-Suggested OpenSCAD settings if you want to export your own STL files
+Suggested OpenSCAD settings if you want to export your own STL files    
 * mSATA - both slots must be set to mSATA   
   set both slots to mSATA, 6mm slot height, 3mm slot depth
 * 98mm M.2 PCB    
@@ -26,6 +26,8 @@ Suggested OpenSCAD settings if you want to export your own STL files
 * 101mm SSD   
   may be combined with 98mm M.2 or 101mm SSD, set slot height above height of your SSD, 3mm slot depth
     
+	
+Links and License    
 * Support this design: https://paypal.me/MirkoKaiser2020
 * Source Repo: https://github.com/KaiserSoft/3D-Printing/tree/master/Dual%20M2%20%20or%202.5%20SSD%20Mounting%20Adapter
 * Alternative Download: https://www.thingiverse.com/thing:4015614
